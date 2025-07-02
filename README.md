@@ -1,4 +1,4 @@
-# Gekke Ronnie Collector - Complete Collection Management Suite
+# Gekke Ronnie Collector
 
 **The Ultimate Collection Tracking System for World of Warcraft**
 
