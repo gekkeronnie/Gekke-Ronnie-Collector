@@ -4,7 +4,7 @@
 
 Transform your collection experience with the most comprehensive tracking system available! Whether you're a completionist hunting every mount, pet, and toy, or a casual collector focusing on specific items, this addon provides enterprise-level tracking with an intuitive interface.
 
-# ⚠️ **REQUIRES RARITY ADDON FOR FULL FUNCTIONALITY** ⚠️  
+## ⚠️ **REQUIRES RARITY ADDON FOR FULL FUNCTIONALITY** ⚠️  
 **Install Rarity addon first for the complete experience!**  
 **Get Rarity here**: https://www.curseforge.com/wow/addons/rarity
 
