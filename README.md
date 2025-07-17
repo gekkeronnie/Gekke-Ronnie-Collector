@@ -41,9 +41,9 @@ This GitHub repository serves as the **development hub** for Gekke Ronnie Collec
 When reporting a bug, please include:
 
 ### 📝 Required Information
-**Addon Version:** [e.g., v1.2.3]
-**WoW Version:** [e.g., 10.2.5 Retail]
-**Rarity Version:** [if applicable]
+**Addon Version:** [e.g., v1.2.3]  
+**WoW Version:** [e.g., 10.2.5 Retail]  
+**Rarity Version:** [if applicable]  
 
 **Issue Description:**
 [Clear description of what's wrong]
