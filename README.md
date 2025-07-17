@@ -41,29 +41,29 @@ This GitHub repository serves as the **development hub** for Gekke Ronnie Collec
 When reporting a bug, please include:
 
 ### 📝 Required Information
-**Addon Version:** [e.g., v1.2.3]  
 **WoW Version:** [e.g., 10.2.5 Retail]  
+**Addon Version:** [e.g., v1.2.3]  
 **Rarity Version:** [if applicable]  
 
 **Issue Description:**
 [Clear description of what's wrong]
 
 **Steps to Reproduce:**
-1. [First step]
-2. [Second step]
-3. [etc.]
+1. [First step]  
+2. [Second step]  
+3. [etc.]  
 
 **Expected Behavior:**
-[What should happen]
+[What should happen]  
 
 **Actual Behavior:**
-[What actually happens]
+[What actually happens]  
 
 **Error Messages:**
-[Any Lua errors or console output]
+[Any Lua errors or console output]  
 
 **Additional Context:**
-[Screenshots, logs, or other relevant info]
+[Screenshots, logs, or other relevant info]  
 
 ### 🏷️ Issue Labels
 - `Bug` - Something isn't working correctly
