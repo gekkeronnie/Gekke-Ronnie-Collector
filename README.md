@@ -41,7 +41,6 @@ This GitHub repository serves as the **development hub** for Gekke Ronnie Collec
 When reporting a bug, please include:
 
 ### 📝 Required Information
-```
 **Addon Version:** [e.g., v1.2.3]
 **WoW Version:** [e.g., 10.2.5 Retail]
 **Rarity Version:** [if applicable]
@@ -65,7 +64,6 @@ When reporting a bug, please include:
 
 **Additional Context:**
 [Screenshots, logs, or other relevant info]
-```
 
 ### 🏷️ Issue Labels
 - `Bug` - Something isn't working correctly
@@ -87,7 +85,6 @@ We welcome feature suggestions! Please:
 - **Check existing issues** - Avoid duplicates
 
 ### 📋 Feature Request Template
-```
 **Feature Summary:**
 [Brief description of the feature]
 
@@ -102,7 +99,6 @@ We welcome feature suggestions! Please:
 
 **Alternatives Considered:**
 [Other solutions you've thought about - optional]
-```
 
 ---
 
